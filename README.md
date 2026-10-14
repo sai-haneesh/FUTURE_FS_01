@@ -43,10 +43,10 @@ FUTURE_FS_01/
 4. Explore the website and its available features.
 
 ## Live Demo
-**Portfolio Website:** Add your published GitHub Pages URL here.
+**Portfolio Website:** sai-haneesh.github.io/FUTURE_FS_01/
 
 ## Screenshots
-Add screenshots of your portfolio website here to demonstrate its design and functionality.
+<img width="1280" height="720" alt="WhatsApp Image 2026-10-14 at 3 59 54 PM" src="https://github.com/user-attachments/assets/36d0b5bc-44b7-4371-9e1b-70cd6e1f95f0" />
 
 ## What I Learned
 - Structuring webpages with HTML.
