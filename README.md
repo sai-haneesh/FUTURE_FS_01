@@ -1,19 +1,68 @@
-# FUTURE_FS_01 — Personal Professional Portfolio
+# Personal Professional Portfolio Website
+
+## Future Interns — Full Stack Web Development Internship
+**Task 1: Personal Professional Portfolio Website**
+
+## Project Overview
+This project is a personal professional portfolio website developed to showcase my skills, education, projects, and professional interests. It provides a simple and accessible way for recruiters and visitors to learn about my technical background and explore my work.
+
+## Objectives
+- Build a professional online portfolio.
+- Showcase technical skills and academic background.
+- Highlight projects and practical experience.
+- Provide contact information for professional communication.
+- Create a responsive website for desktop and mobile users.
+
+## Technologies Used
+- **HTML5** — Website structure
+- **CSS3** — Styling and responsive layout
+- **JavaScript** — Interactive features
 
 ## Features
-- Responsive personal portfolio with About, Skills, Projects, and Contact sections
-- Mobile navigation menu
-- Contact form validation and demo confirmation
-- SEO description and semantic HTML
+- Professional introduction section
+- About Me section
+- Education and technical skills
+- Projects showcase
+- Contact section
+- Responsive user interface
+- Interactive elements using JavaScript
 
-## Run
-Open `index.html` in a browser, or use the VS Code Live Server extension.
+## Project Structure
+```text
+FUTURE_FS_01/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
-## Customize before submitting
-1. Replace sample profile text and project descriptions with your own accurate details.
-2. Add your actual GitHub, LinkedIn, resume, and live project links.
-3. The contact form currently shows a browser-side confirmation only. Connect a backend or form provider if email notifications are required.
-4. Test on desktop and mobile and add screenshots to this repository.
+## How to Run Locally
+1. Clone or download this repository.
+2. Open the project folder.
+3. Open `index.html` in your web browser.
+4. Explore the website and its available features.
 
-## Suggested repository
-`FUTURE_FS_01`
+## Live Demo
+**Portfolio Website:** Add your published GitHub Pages URL here.
+
+## Screenshots
+Add screenshots of your portfolio website here to demonstrate its design and functionality.
+
+## What I Learned
+- Structuring webpages with HTML.
+- Styling layouts using CSS.
+- Adding interactivity with JavaScript.
+- Organizing project files using GitHub.
+- Publishing a static website using GitHub Pages.
+
+## Author
+**Sai Haneesh**  
+B.Tech — Computer Science and Engineering (Artificial Intelligence and Machine Learning)
+
+## Internship
+**Future Interns — Full Stack Web Development**
+
+This project was developed as part of Task 1 of the internship program.
+
+## License
+This project is intended for educational and portfolio purposes.
