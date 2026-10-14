@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Personal portfolio showcasing web development skills, projects, and contact information.">
+  <title>Sai Haneesh | Developer Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="#home">SH<span>.</span></a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation">☰</button>
+    <nav id="nav">
+      <a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#contact">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero section" id="home">
+      <div class="hero-copy">
+        <p class="eyebrow">CSE • AI & ML STUDENT</p>
+        <h1>Hello, I'm <span>Sai Haneesh.</span></h1>
+        <p class="lead">I build useful, responsive web experiences and explore the possibilities of AI and machine learning.</p>
+        <div class="actions"><a class="btn" href="#projects">Explore projects</a><a class="btn btn-outline" href="#contact">Contact me</a></div>
+      </div>
+      <div class="hero-card"><div class="avatar">SH</div><p class="card-label">Aspiring Software Engineer</p><p>Learning • Building • Improving</p></div>
+    </section>
+    <section class="section" id="about"><p class="eyebrow">GET TO KNOW ME</p><h2>About me</h2><p class="section-copy">I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy turning ideas into practical projects, learning modern development tools, and solving problems through code.</p></section>
+    <section class="section" id="skills"><p class="eyebrow">WHAT I USE</p><h2>Skills</h2><div class="chips"><span>HTML</span><span>CSS</span><span>JavaScript</span><span>Java</span><span>Python</span><span>AI / ML</span><span>GitHub</span><span>Responsive Design</span></div></section>
+    <section class="section" id="projects"><p class="eyebrow">SELECTED WORK</p><h2>Projects</h2><div class="project-grid">
+      <article class="project"><div class="project-icon">01</div><h3>Online Note Sharing System</h3><p>A student-focused concept for organizing, searching, and sharing study notes.</p><span class="tag">HTML · CSS · JavaScript</span></article>
+      <article class="project"><div class="project-icon">02</div><h3>Diabetes Prediction</h3><p>A machine-learning project that explores data preparation, model training, and evaluation.</p><span class="tag">Python · ML</span></article>
+      <article class="project"><div class="project-icon">03</div><h3>DDoS Detection</h3><p>A learning project exploring network-traffic features and anomaly detection techniques.</p><span class="tag">Python · Flask · ML</span></article>
+    </div></section>
+    <section class="section contact" id="contact"><p class="eyebrow">LET'S CONNECT</p><h2>Have a project in mind?</h2><p class="section-copy">Send a message using the form below. This demo validates the form in your browser; connect a backend or form service to receive messages by email.</p>
+      <form id="contactForm"><div class="form-row"><label>Name<input name="name" required placeholder="Your name"></label><label>Email<input name="email" type="email" required placeholder="you@example.com"></label></div><label>Message<textarea name="message" required rows="4" placeholder="Tell me about your idea"></textarea></label><button class="btn" type="submit">Send message</button><p id="formMessage" role="status"></p></form>
+    </section>
+  </main>
+  <footer><span>© <span id="year"></span> Sai Haneesh</span><span>Built with HTML, CSS & JavaScript</span></footer>
+  <script src="script.js"></script>
+</body>
+</html>
