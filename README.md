@@ -1,6 +1,5 @@
 # Personal Professional Portfolio Website
 
-## Future Interns — Full Stack Web Development Internship
 **Task 1: Personal Professional Portfolio Website**
 
 ## Project Overview
